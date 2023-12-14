@@ -15,7 +15,7 @@
 ``` bash
 export MLFLOW_TRACKING_URI=https://dagshub.com/shivakumarsanugula/Chest-Cancer-Classification-using-MLflow-DVC.mlflow \
 export MLFLOW_TRACKING_USERNAME=shivakumarsanugula \
-export MLFLOW_TRACKING_PASSWORD=2aeae54d39728e7a12782a69f438912055bf96b1 \
+export MLFLOW_TRACKING_PASSWORD= \
 python script.py
 
 ```
