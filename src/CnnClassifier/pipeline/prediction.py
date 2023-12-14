@@ -30,3 +30,5 @@ class PredictionPipeline:
         else:
             prediction = 'Adenocarcinoma Cancer'
             return [{ "image" : prediction}]
+        
+
