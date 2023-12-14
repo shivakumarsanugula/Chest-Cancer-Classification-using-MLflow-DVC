@@ -19,5 +19,5 @@ logging.basicConfig(
     ] 
 )
 
-loggger = logging.getLogger("cnnClassifierLogger")
+logger = logging.getLogger("CnnClassifierLogger")
 
