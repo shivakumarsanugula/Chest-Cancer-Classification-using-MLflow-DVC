@@ -1,7 +1,7 @@
 import os
 import zipfile
 import gdown
-from src.CnnClassifier import *
+from CnnClassifier import *
 from CnnClassifier.utils.common import get_size
 from CnnClassifier.entity.config_entity import (DataIngestionConfig)
 
